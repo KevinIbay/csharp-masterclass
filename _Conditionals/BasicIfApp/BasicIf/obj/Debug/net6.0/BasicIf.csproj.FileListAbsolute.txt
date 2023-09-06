@@ -1,0 +1,14 @@
+D:\Projects\_C# Masterclass\BasicIfApp\BasicIf\bin\Debug\net6.0\BasicIf.exe
+D:\Projects\_C# Masterclass\BasicIfApp\BasicIf\bin\Debug\net6.0\BasicIf.deps.json
+D:\Projects\_C# Masterclass\BasicIfApp\BasicIf\bin\Debug\net6.0\BasicIf.runtimeconfig.json
+D:\Projects\_C# Masterclass\BasicIfApp\BasicIf\bin\Debug\net6.0\BasicIf.dll
+D:\Projects\_C# Masterclass\BasicIfApp\BasicIf\bin\Debug\net6.0\BasicIf.pdb
+D:\Projects\_C# Masterclass\BasicIfApp\BasicIf\obj\Debug\net6.0\BasicIf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\_C# Masterclass\BasicIfApp\BasicIf\obj\Debug\net6.0\BasicIf.AssemblyInfoInputs.cache
+D:\Projects\_C# Masterclass\BasicIfApp\BasicIf\obj\Debug\net6.0\BasicIf.AssemblyInfo.cs
+D:\Projects\_C# Masterclass\BasicIfApp\BasicIf\obj\Debug\net6.0\BasicIf.csproj.CoreCompileInputs.cache
+D:\Projects\_C# Masterclass\BasicIfApp\BasicIf\obj\Debug\net6.0\BasicIf.dll
+D:\Projects\_C# Masterclass\BasicIfApp\BasicIf\obj\Debug\net6.0\refint\BasicIf.dll
+D:\Projects\_C# Masterclass\BasicIfApp\BasicIf\obj\Debug\net6.0\BasicIf.pdb
+D:\Projects\_C# Masterclass\BasicIfApp\BasicIf\obj\Debug\net6.0\BasicIf.genruntimeconfig.cache
+D:\Projects\_C# Masterclass\BasicIfApp\BasicIf\obj\Debug\net6.0\ref\BasicIf.dll

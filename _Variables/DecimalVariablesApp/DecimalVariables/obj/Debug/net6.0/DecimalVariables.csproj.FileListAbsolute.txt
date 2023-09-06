@@ -1,0 +1,4 @@
+D:\Projects\_C# Masterclass\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\DecimalVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\_C# Masterclass\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\DecimalVariables.AssemblyInfoInputs.cache
+D:\Projects\_C# Masterclass\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\DecimalVariables.AssemblyInfo.cs
+D:\Projects\_C# Masterclass\DecimalVariablesApp\DecimalVariables\obj\Debug\net6.0\DecimalVariables.csproj.CoreCompileInputs.cache

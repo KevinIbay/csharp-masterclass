@@ -1,0 +1,14 @@
+D:\Projects\_C# Masterclass\DoubleVariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.exe
+D:\Projects\_C# Masterclass\DoubleVariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.deps.json
+D:\Projects\_C# Masterclass\DoubleVariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.runtimeconfig.json
+D:\Projects\_C# Masterclass\DoubleVariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.dll
+D:\Projects\_C# Masterclass\DoubleVariablesApp\DoubleVariables\bin\Debug\net6.0\DoubleVariables.pdb
+D:\Projects\_C# Masterclass\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\_C# Masterclass\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.AssemblyInfoInputs.cache
+D:\Projects\_C# Masterclass\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.AssemblyInfo.cs
+D:\Projects\_C# Masterclass\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.csproj.CoreCompileInputs.cache
+D:\Projects\_C# Masterclass\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.dll
+D:\Projects\_C# Masterclass\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\refint\DoubleVariables.dll
+D:\Projects\_C# Masterclass\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.pdb
+D:\Projects\_C# Masterclass\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\DoubleVariables.genruntimeconfig.cache
+D:\Projects\_C# Masterclass\DoubleVariablesApp\DoubleVariables\obj\Debug\net6.0\ref\DoubleVariables.dll

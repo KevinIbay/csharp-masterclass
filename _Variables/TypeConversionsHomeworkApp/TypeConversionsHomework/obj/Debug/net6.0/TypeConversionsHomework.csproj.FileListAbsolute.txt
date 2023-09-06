@@ -1,0 +1,14 @@
+D:\Projects\_C# Masterclass\TypeConversionsHomeworkApp\TypeConversionsHomework\bin\Debug\net6.0\TypeConversionsHomework.exe
+D:\Projects\_C# Masterclass\TypeConversionsHomeworkApp\TypeConversionsHomework\bin\Debug\net6.0\TypeConversionsHomework.deps.json
+D:\Projects\_C# Masterclass\TypeConversionsHomeworkApp\TypeConversionsHomework\bin\Debug\net6.0\TypeConversionsHomework.runtimeconfig.json
+D:\Projects\_C# Masterclass\TypeConversionsHomeworkApp\TypeConversionsHomework\bin\Debug\net6.0\TypeConversionsHomework.dll
+D:\Projects\_C# Masterclass\TypeConversionsHomeworkApp\TypeConversionsHomework\bin\Debug\net6.0\TypeConversionsHomework.pdb
+D:\Projects\_C# Masterclass\TypeConversionsHomeworkApp\TypeConversionsHomework\obj\Debug\net6.0\TypeConversionsHomework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\_C# Masterclass\TypeConversionsHomeworkApp\TypeConversionsHomework\obj\Debug\net6.0\TypeConversionsHomework.AssemblyInfoInputs.cache
+D:\Projects\_C# Masterclass\TypeConversionsHomeworkApp\TypeConversionsHomework\obj\Debug\net6.0\TypeConversionsHomework.AssemblyInfo.cs
+D:\Projects\_C# Masterclass\TypeConversionsHomeworkApp\TypeConversionsHomework\obj\Debug\net6.0\TypeConversionsHomework.csproj.CoreCompileInputs.cache
+D:\Projects\_C# Masterclass\TypeConversionsHomeworkApp\TypeConversionsHomework\obj\Debug\net6.0\TypeConversionsHomework.dll
+D:\Projects\_C# Masterclass\TypeConversionsHomeworkApp\TypeConversionsHomework\obj\Debug\net6.0\refint\TypeConversionsHomework.dll
+D:\Projects\_C# Masterclass\TypeConversionsHomeworkApp\TypeConversionsHomework\obj\Debug\net6.0\TypeConversionsHomework.pdb
+D:\Projects\_C# Masterclass\TypeConversionsHomeworkApp\TypeConversionsHomework\obj\Debug\net6.0\TypeConversionsHomework.genruntimeconfig.cache
+D:\Projects\_C# Masterclass\TypeConversionsHomeworkApp\TypeConversionsHomework\obj\Debug\net6.0\ref\TypeConversionsHomework.dll
