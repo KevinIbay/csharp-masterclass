@@ -1,0 +1,14 @@
+D:\Projects\_C# Masterclass\ForLoopsHomeworkApp\ForLoopsHomework\bin\Debug\net6.0\ForLoopsHomework.exe
+D:\Projects\_C# Masterclass\ForLoopsHomeworkApp\ForLoopsHomework\bin\Debug\net6.0\ForLoopsHomework.deps.json
+D:\Projects\_C# Masterclass\ForLoopsHomeworkApp\ForLoopsHomework\bin\Debug\net6.0\ForLoopsHomework.runtimeconfig.json
+D:\Projects\_C# Masterclass\ForLoopsHomeworkApp\ForLoopsHomework\bin\Debug\net6.0\ForLoopsHomework.dll
+D:\Projects\_C# Masterclass\ForLoopsHomeworkApp\ForLoopsHomework\bin\Debug\net6.0\ForLoopsHomework.pdb
+D:\Projects\_C# Masterclass\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net6.0\ForLoopsHomework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\_C# Masterclass\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net6.0\ForLoopsHomework.AssemblyInfoInputs.cache
+D:\Projects\_C# Masterclass\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net6.0\ForLoopsHomework.AssemblyInfo.cs
+D:\Projects\_C# Masterclass\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net6.0\ForLoopsHomework.csproj.CoreCompileInputs.cache
+D:\Projects\_C# Masterclass\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net6.0\ForLoopsHomework.dll
+D:\Projects\_C# Masterclass\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net6.0\refint\ForLoopsHomework.dll
+D:\Projects\_C# Masterclass\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net6.0\ForLoopsHomework.pdb
+D:\Projects\_C# Masterclass\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net6.0\ForLoopsHomework.genruntimeconfig.cache
+D:\Projects\_C# Masterclass\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net6.0\ref\ForLoopsHomework.dll

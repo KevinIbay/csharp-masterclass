@@ -1,0 +1,14 @@
+D:\Projects\_C# Masterclass\ArraysHomeworkApp\ArraysHomework\bin\Debug\net6.0\ArraysHomework.exe
+D:\Projects\_C# Masterclass\ArraysHomeworkApp\ArraysHomework\bin\Debug\net6.0\ArraysHomework.deps.json
+D:\Projects\_C# Masterclass\ArraysHomeworkApp\ArraysHomework\bin\Debug\net6.0\ArraysHomework.runtimeconfig.json
+D:\Projects\_C# Masterclass\ArraysHomeworkApp\ArraysHomework\bin\Debug\net6.0\ArraysHomework.dll
+D:\Projects\_C# Masterclass\ArraysHomeworkApp\ArraysHomework\bin\Debug\net6.0\ArraysHomework.pdb
+D:\Projects\_C# Masterclass\ArraysHomeworkApp\ArraysHomework\obj\Debug\net6.0\ArraysHomework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\_C# Masterclass\ArraysHomeworkApp\ArraysHomework\obj\Debug\net6.0\ArraysHomework.AssemblyInfoInputs.cache
+D:\Projects\_C# Masterclass\ArraysHomeworkApp\ArraysHomework\obj\Debug\net6.0\ArraysHomework.AssemblyInfo.cs
+D:\Projects\_C# Masterclass\ArraysHomeworkApp\ArraysHomework\obj\Debug\net6.0\ArraysHomework.csproj.CoreCompileInputs.cache
+D:\Projects\_C# Masterclass\ArraysHomeworkApp\ArraysHomework\obj\Debug\net6.0\ArraysHomework.dll
+D:\Projects\_C# Masterclass\ArraysHomeworkApp\ArraysHomework\obj\Debug\net6.0\refint\ArraysHomework.dll
+D:\Projects\_C# Masterclass\ArraysHomeworkApp\ArraysHomework\obj\Debug\net6.0\ArraysHomework.pdb
+D:\Projects\_C# Masterclass\ArraysHomeworkApp\ArraysHomework\obj\Debug\net6.0\ArraysHomework.genruntimeconfig.cache
+D:\Projects\_C# Masterclass\ArraysHomeworkApp\ArraysHomework\obj\Debug\net6.0\ref\ArraysHomework.dll

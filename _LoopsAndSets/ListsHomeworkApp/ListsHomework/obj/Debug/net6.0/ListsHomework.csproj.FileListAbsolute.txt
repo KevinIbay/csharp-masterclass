@@ -1,0 +1,14 @@
+D:\Projects\_C# Masterclass\ListsHomeworkApp\ListsHomework\bin\Debug\net6.0\ListsHomework.exe
+D:\Projects\_C# Masterclass\ListsHomeworkApp\ListsHomework\bin\Debug\net6.0\ListsHomework.deps.json
+D:\Projects\_C# Masterclass\ListsHomeworkApp\ListsHomework\bin\Debug\net6.0\ListsHomework.runtimeconfig.json
+D:\Projects\_C# Masterclass\ListsHomeworkApp\ListsHomework\bin\Debug\net6.0\ListsHomework.dll
+D:\Projects\_C# Masterclass\ListsHomeworkApp\ListsHomework\bin\Debug\net6.0\ListsHomework.pdb
+D:\Projects\_C# Masterclass\ListsHomeworkApp\ListsHomework\obj\Debug\net6.0\ListsHomework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\_C# Masterclass\ListsHomeworkApp\ListsHomework\obj\Debug\net6.0\ListsHomework.AssemblyInfoInputs.cache
+D:\Projects\_C# Masterclass\ListsHomeworkApp\ListsHomework\obj\Debug\net6.0\ListsHomework.AssemblyInfo.cs
+D:\Projects\_C# Masterclass\ListsHomeworkApp\ListsHomework\obj\Debug\net6.0\ListsHomework.csproj.CoreCompileInputs.cache
+D:\Projects\_C# Masterclass\ListsHomeworkApp\ListsHomework\obj\Debug\net6.0\ListsHomework.dll
+D:\Projects\_C# Masterclass\ListsHomeworkApp\ListsHomework\obj\Debug\net6.0\refint\ListsHomework.dll
+D:\Projects\_C# Masterclass\ListsHomeworkApp\ListsHomework\obj\Debug\net6.0\ListsHomework.pdb
+D:\Projects\_C# Masterclass\ListsHomeworkApp\ListsHomework\obj\Debug\net6.0\ListsHomework.genruntimeconfig.cache
+D:\Projects\_C# Masterclass\ListsHomeworkApp\ListsHomework\obj\Debug\net6.0\ref\ListsHomework.dll

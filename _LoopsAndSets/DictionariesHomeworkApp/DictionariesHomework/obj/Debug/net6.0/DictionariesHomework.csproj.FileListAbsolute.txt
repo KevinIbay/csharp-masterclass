@@ -1,0 +1,14 @@
+D:\Projects\_C# Masterclass\DictionariesHomeworkApp\DictionariesHomework\bin\Debug\net6.0\DictionariesHomework.exe
+D:\Projects\_C# Masterclass\DictionariesHomeworkApp\DictionariesHomework\bin\Debug\net6.0\DictionariesHomework.deps.json
+D:\Projects\_C# Masterclass\DictionariesHomeworkApp\DictionariesHomework\bin\Debug\net6.0\DictionariesHomework.runtimeconfig.json
+D:\Projects\_C# Masterclass\DictionariesHomeworkApp\DictionariesHomework\bin\Debug\net6.0\DictionariesHomework.dll
+D:\Projects\_C# Masterclass\DictionariesHomeworkApp\DictionariesHomework\bin\Debug\net6.0\DictionariesHomework.pdb
+D:\Projects\_C# Masterclass\DictionariesHomeworkApp\DictionariesHomework\obj\Debug\net6.0\DictionariesHomework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\_C# Masterclass\DictionariesHomeworkApp\DictionariesHomework\obj\Debug\net6.0\DictionariesHomework.AssemblyInfoInputs.cache
+D:\Projects\_C# Masterclass\DictionariesHomeworkApp\DictionariesHomework\obj\Debug\net6.0\DictionariesHomework.AssemblyInfo.cs
+D:\Projects\_C# Masterclass\DictionariesHomeworkApp\DictionariesHomework\obj\Debug\net6.0\DictionariesHomework.csproj.CoreCompileInputs.cache
+D:\Projects\_C# Masterclass\DictionariesHomeworkApp\DictionariesHomework\obj\Debug\net6.0\DictionariesHomework.dll
+D:\Projects\_C# Masterclass\DictionariesHomeworkApp\DictionariesHomework\obj\Debug\net6.0\refint\DictionariesHomework.dll
+D:\Projects\_C# Masterclass\DictionariesHomeworkApp\DictionariesHomework\obj\Debug\net6.0\DictionariesHomework.pdb
+D:\Projects\_C# Masterclass\DictionariesHomeworkApp\DictionariesHomework\obj\Debug\net6.0\DictionariesHomework.genruntimeconfig.cache
+D:\Projects\_C# Masterclass\DictionariesHomeworkApp\DictionariesHomework\obj\Debug\net6.0\ref\DictionariesHomework.dll
